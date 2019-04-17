@@ -1,5 +1,5 @@
 # bt-6.9.0
-破解脚本：
+插件脚本：
 wget -O bt_plugin.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_plugin.sh && chmod 755 bt_plugin.sh && bash bt_plugin.sh
 
 宝塔6.9.0 开心版（第二弹 新UI)
