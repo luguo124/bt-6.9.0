@@ -1,3 +1,3 @@
 # bt-6.9.0
 破解脚本：
-yum install wget -y;wget https://github.com/luguo124/bt-6.9.0/raw/master/crack.sh;bash crack.sh
+wget -O bt_plugin.sh  https://loli.team/sh/bt_plugin.sh && chmod 755 bt_plugin.sh && bash bt_plugin.sh
