@@ -11,7 +11,7 @@ yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/lugu
 Ubuntu/Deepin安装命令：
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && sh install.sh
 Debian安装命令：
-yum install -y wget && wget -O install.sh https://loli.team/bt5/install/install-ubuntu.sh && sh install.sh
+yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && sh install.sh
 Fedora安装命令：
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install.sh && sh install.sh
 升级专业版：
