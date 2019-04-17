@@ -15,6 +15,6 @@ yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/lugu
 Fedora安装命令：
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install.sh && sh install.sh
 升级专业版：
-yum install -y wget && wget -O update.sh http://loli.team/bt5/install/update_pro.sh && bash update.sh pro
+yum install -y wget && wget -O update.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/update_pro.sh && bash update.sh pro
 重启面板：
 service bt restart
