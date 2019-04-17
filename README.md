@@ -9,7 +9,7 @@ yum -y install wget && wget -O bt_6.9.0_v2.sh https://raw.githubusercontent.com/
 Centos安装命令：
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install.sh && sh install.sh
 Ubuntu/Deepin安装命令：
-yum install -y wget && wget -O install.sh https://loli.team/bt5/install/install-ubuntu.sh && sh install.sh
+yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && sh install.sh
 Debian安装命令：
 yum install -y wget && wget -O install.sh https://loli.team/bt5/install/install-ubuntu.sh && sh install.sh
 Fedora安装命令：
