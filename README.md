@@ -6,7 +6,7 @@ wget -O bt_plugin.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/
 yum -y install wget && wget -O bt_6.9.0_v2.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_6.9.0_v2.sh && chmod 755 bt_6.9.0_v2.sh && bash bt_6.9.0_v2.sh
 
 宝塔6.9.0 开心版（第一弹 旧UI）
-yum -y install wget && wget -O bt_6.9.0_v1.sh https://api.moecat.cn/6.9.0_v1/bt_6.9.0_v1.sh && chmod 755 bt_6.9.0_v1.sh && bash bt_6.9.0_v1.sh
+yum -y install wget && wget -O bt_6.9.0_v1.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_6.9.0_v1.sh && chmod 755 bt_6.9.0_v1.sh && bash bt_6.9.0_v1.sh
 不想使用开心版的，直接使用官方脚本转成免费
 wget -O update.sh http://download.bt.cn/install/update.sh && bash update.sh free
 
