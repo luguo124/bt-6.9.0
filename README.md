@@ -6,7 +6,7 @@ wget -O bt_plugin.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/
 yum -y install wget && wget -O bt_6.9.0_v2.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_6.9.0_v2.sh && chmod 755 bt_6.9.0_v2.sh && bash bt_6.9.0_v2.sh
 
 宝塔面板6.8.9 开心版
-yum -y install wget && wget -O bt_6.8.9.sh https://api.moecat.cn/6.8.9/bt_6.8.9.sh && chmod 755 bt_6.8.9.sh && bash bt_6.8.9.sh
+yum -y install wget && wget -O bt_6.8.9.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_6.8.9.sh && chmod 755 bt_6.8.9.sh && bash bt_6.8.9.sh
 
 宝塔5.9.1 开心本地版
 Centos安装命令：
