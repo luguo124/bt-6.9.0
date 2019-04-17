@@ -7,10 +7,10 @@ is64bit=`getconf LONG_BIT`
 if [ -f "/usr/bin/apt-get" ];then
 	isDebian=`cat /etc/issue|grep Debian`
 	if [ "$isDebian" != "" ];then
-		wget -O install.sh https://loli.team/bt5/install/install-ubuntu.sh && bash install.sh
+		wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && bash install.sh
 		exit;
 	else
-		wget -O install.sh https://loli.team/bt5/install/install-ubuntu.sh && sudo bash install.sh
+		wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && sudo bash install.sh
 		exit;
 	fi
 fi
