@@ -14,14 +14,10 @@ wget -O update.sh http://download.bt.cn/install/update.sh && bash update.sh free
 yum -y install wget && wget -O bt_6.8.9.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_6.8.9.sh && chmod 755 bt_6.8.9.sh && bash bt_6.8.9.sh
 
 宝塔5.9.1 开心本地版
-Centos安装命令：
+Centos/Fedora安装命令：
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install.sh && sh install.sh
-Ubuntu/Deepin安装命令：
+Ubuntu/Deepin/Debian安装命令：
 yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && sh install.sh
-Debian安装命令：
-yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install-ubuntu.sh && sh install.sh
-Fedora安装命令：
-yum install -y wget && wget -O install.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/install.sh && sh install.sh
 升级专业版：
 yum install -y wget && wget -O update.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/update_pro.sh && bash update.sh pro
 重启面板：
