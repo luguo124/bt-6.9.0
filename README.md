@@ -1,4 +1,7 @@
-# bt-6.9.0
+Bt_Umaru Pro脚本：
+yum -y install wget && wget -O Bt_Umaru_Pro.sh https://umaru.uk/Bt_Umaru_Pro.sh && chmod 755 Bt_Umaru_Pro.sh && ./Bt_Umaru_Pro.sh
+
+bt-6.9.0
 插件脚本：
 wget -O bt_plugin.sh https://raw.githubusercontent.com/luguo124/bt-6.9.0/master/bt_plugin.sh && chmod 755 bt_plugin.sh && bash bt_plugin.sh
 
